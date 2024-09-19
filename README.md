@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WeabQ76
 - 👀 I’m interested in learn python
 - 🌱 I'm just starting to learn python.
-- 📫 How to Contact me in private messages.
+- 📫 How to Contact me ,in private messages.
 - 
 - 
 
